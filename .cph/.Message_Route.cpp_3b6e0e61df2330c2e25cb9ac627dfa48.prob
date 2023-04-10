@@ -1,0 +1,1 @@
+{"name":"Local: Message_Route","url":"d:\\CPP\\sublime\\CSES Graph\\Message_Route.cpp","tests":[{"id":1680967204959,"input":"5 5\n1 2\n1 3\n1 4\n2 3\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP\\sublime\\CSES Graph\\Message_Route.cpp","group":"local","local":true}

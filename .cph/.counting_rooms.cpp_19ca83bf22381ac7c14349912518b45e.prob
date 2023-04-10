@@ -1,0 +1,1 @@
+{"name":"Local: counting_rooms","url":"d:\\CPP\\sublime\\CSES Graph\\counting_rooms.cpp","tests":[{"id":1680964065931,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP\\sublime\\CSES Graph\\counting_rooms.cpp","group":"local","local":true}
