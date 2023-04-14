@@ -1,0 +1,1 @@
+{"name":"Local: Flight_Routes","url":"d:\\CPP\\sublime\\CSES Graph\\Flight_Routes.cpp","tests":[{"id":1681416596766,"input":"10 12 3\n8 9 3\n4 5 4\n4 7 2\n6 1 4\n2 3 3\n10 9 5\n3 4 3\n1 2 3\n7 8 2\n9 6 5\n5 6 2\n1 10 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP\\sublime\\CSES Graph\\Flight_Routes.cpp","group":"local","local":true}
